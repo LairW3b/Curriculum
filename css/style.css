@@ -1,0 +1,63 @@
+.contenedor_principal {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  margin: 2rem 2rem 2rem 2rem;
+  background-color: #232727;
+}
+
+.content_izq {
+  background-color: #181b1b;
+}
+
+.perfil {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.perfil h2 {
+  font-size: 3rem;
+}
+
+.img_perfil {
+  width: 10rem;
+  height: 10rem;
+  display: block;
+  margin: auto;
+  border-radius: 50rem;
+  border: .5rem solid var(--cian);
+}
+
+/* Datos */
+.datos {
+  margin: 2rem;
+}
+
+.idiomas span {
+  color: var(--cian);
+  margin-right: 1rem;
+}
+
+/* Div derecha */
+.content_der {
+  margin: 3rem;
+  text-align: justify;
+}
+
+.me {
+  display: grid;
+  grid-template-columns: 1fr 12fr;
+  align-items: center;
+  font-size: 3rem;
+}
+
+
+.skills_li {
+  display: flex;
+  gap: 2rem;
+  font-size: 2.5rem;
+}
+
+
+
+/** Talvez general */
