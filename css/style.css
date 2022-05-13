@@ -1,7 +1,9 @@
 .contenedor_principal {
   display: grid;
-  grid-template-columns: 1fr 3fr;
-  margin: 2rem 2rem 2rem 2rem;
+  grid-template-columns: 1fr 2fr;
+  width: 21cm;
+  /* height: 29.7cm; */
+  margin: 2rem auto;
   background-color: #232727;
 }
 
@@ -27,6 +29,7 @@
   border-radius: 50rem;
   border: .5rem solid var(--cian);
 }
+
 
 /* Datos */
 .datos {
@@ -55,9 +58,6 @@
 .skills_li {
   display: flex;
   gap: 2rem;
-  font-size: 2.5rem;
+  font-size: 1.7rem;
+  margin-top: 1.5rem;
 }
-
-
-
-/** Talvez general */
