@@ -14,10 +14,10 @@ html {
 }
 
 body {
-  max-width: 105rem;
+  /* max-width: 105rem; */
   margin: auto;
   font-size: 1.6rem;
-  background-color: #000; 
+  /* background-color: #000;  */
   color: var(--withe);
   font-family: var(--font);
 }
