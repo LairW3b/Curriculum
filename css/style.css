@@ -27,7 +27,7 @@
   display: block;
   margin: auto;
   border-radius: 50rem;
-  border: .5rem solid var(--cian);
+  /* border: .5rem solid var(--cian); */
 }
 
 
