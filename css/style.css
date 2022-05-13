@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: 1fr 2fr;
   width: 21cm;
-  /* height: 29.7cm; */
+  height: 29.7cm;
   margin: auto;
   background-color: #232727;
 }
